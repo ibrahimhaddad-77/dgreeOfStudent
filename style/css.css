@@ -1,0 +1,8 @@
+.dis-none{
+    display: none;
+}
+
+.invalid{
+  outline: solid 2px red;
+    background-color: rgba(253, 28, 28, 0.411);
+}
